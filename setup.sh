@@ -119,7 +119,6 @@ function standard_install {
     for taskname in \
 apt_update \
 configure_ntp \
-install_zerotier \
 configure_timezone \
 install_various_utilities \
 install_redis_server \
