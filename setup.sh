@@ -134,5 +134,6 @@ install_node_utilities \
     done
 }
 
+[[ "${BASH_SOURCE[0]}" == "${0}" ]] && standard_install
 
 
