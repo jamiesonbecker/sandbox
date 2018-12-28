@@ -123,7 +123,6 @@ install_zerotier \
 configure_timezone \
 install_various_utilities \
 install_redis_server \
-configure_figlet_hostname \
 install_node8 \
 install_node_utilities \
 
